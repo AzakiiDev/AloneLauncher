@@ -1,11 +1,11 @@
 {
     "name": "Alone-Launcher",
     "preductname": "AloneLauncher",
-    "version": "1.0.0",
+    "version": "1.0.7",
     "description": "Launcher-Alone",
     "main": "src/app.js",
     "author": "Azakii",
-    "url": "https://dl.alonedayz.com/caca",
+    "url": "https://dl.alonedayz.wstr.fr/caca",
     "engines": {
         "node": "^16.x.x"
     },
